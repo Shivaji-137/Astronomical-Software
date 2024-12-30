@@ -16,7 +16,7 @@
     - [AstroML](#AstroMl)
     - [PyCBC](#pycbc)
     - [HEAsoft](#heasoft)
-- [Executable Software](#executable-software)
+- [<img src="./assets/img/executable_software.png" alt="Logo" width="15" height="15"> Executable Software](#executable-software)
    - [DS9](#ds9)
    - [TOPCAT](#topcat)
    - [Aladin](#aladin)
