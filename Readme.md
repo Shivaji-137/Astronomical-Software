@@ -3,8 +3,8 @@
 
 # Astronomical Software Tools
 ## Table of Contents
-1. [<img src="./assets/img/pythonlogo.ico" alt="Logo" width="30" height="30"> Python Tools](#python-tools)
-    - [<img src="./assets/img/astropy_brandmark.png" alt="Logo" width="20" height="20">  Astropy](#astropy)
+- [<img src="./assets/img/pythonlogo.ico" alt="Logo" width="15" height="15"> Python Tools](#python-tools)
+    - [Astropy](#astropy)
     - [camb](#camb)
     - [cobaya](#cobaya)
     - [h5py](#h5py)
@@ -16,7 +16,7 @@
     - [AstroML](#AstroMl)
     - [PyCBC](#pycbc)
     - [HEAsoft](#heasoft)
-2. [Executable Software](#executable-software)
+- [Executable Software](#executable-software)
    - [DS9](#ds9)
    - [TOPCAT](#topcat)
    - [Aladin](#aladin)
