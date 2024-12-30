@@ -1,4 +1,5 @@
 <div align="center"><img src="./assets/img/jwst_pillar_ofcreation.jpg" width="400" height="400"></div>
+<p align="center"><em>Pillars of Creation (NIRCam and MIRI Composite Image). Image Credit: NASA, ESA, CSA, and STScI</em></p>
 
 # Astronomical Software Tools
 ## Table of Contents
@@ -6,6 +7,7 @@
    - [Astropy](#astropy)
    - [Lightkurve](#lightkurve)
    - [Astroquery](#astroquery)
+   - [AstroML](#AstroMl)
    - [PyCBC](#pycbc)
    - [HEAsoft](#heasoft)
 2. [Executable Software](#executable-software)
