@@ -4,7 +4,7 @@
 # Astronomical Software Tools
 ## Table of Contents
 1. [Python Tools](#python-tools)
-- [Astropy](#astropy) ![Astropy Icon](https://www.astropy.org/_static/astropy_logo.png)
+    - [Astropy](#astropy) ![Astropy Icon](./assets/img/astropy_brandmark.png)
     - [camb](#camb)
     - [cobaya](#cobaya)
     - [h5py](#h5py)
