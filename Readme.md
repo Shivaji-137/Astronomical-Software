@@ -1,7 +1,7 @@
 <div align="center"><img src="./assets/img/jwst_pillar_ofcreation.jpg" width="400" height="400"></div>
 <p align="center"><em>Pillars of Creation (NIRCam and MIRI Composite Image). Image Credit: NASA, ESA, CSA, and STScI</em></p>
 
-# Astronomical Software Tools
+# Shivaji - Astronomical Software Tools
 ## Table of Contents
 - [<img src="./assets/img/pythonlogo.ico" alt="Logo" width="15" height="15"> Python Tools](#python-tools)
     - [Astropy](#astropy)
