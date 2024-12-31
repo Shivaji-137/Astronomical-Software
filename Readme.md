@@ -7,15 +7,15 @@
     - [Astropy](#astropy)
     - [AstroML](#AstroMl)
     - [Astroquery](#astroquery)
-    - [camb](#camb)
-    - [cobaya](#cobaya)
+    - [Camb](#camb)
+    - [Cobaya](#cobaya)
     - [GASTLI](#GASTLI)
-    - [h5py](#h5py)
-    - [healpy](#healpy)
-    - [jdaviz](#jdaviz)
+    - [H5py](#h5py)
+    - [Healpy](#healpy)
+    - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
     - [PyCBC](#pycbc)
-    - [spectral-cube](#spectral-cube)
+    - [Spectral-cube](#spectral-cube)
     - [HEAsoft](#heasoft)
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
    - [Aladin](#aladin)
@@ -82,10 +82,22 @@ For more information and to get started with Astroquery, visit their [official w
 - **Python module Index**: [Useful API](https://astroquery.readthedocs.io/en/latest/py-modindex.html)
 
 
-### 4. PyCBC
-- **Description**: Toolkit for gravitational wave data analysis.
-- **Website**: [https://pycbc.org](https://pycbc.org)
-- **Installation**: `pip install pycbc`
+### Camb
+<div align="center"><img src="./assets/img/cobaya_camb.png" width="100" height="100"></div>
+
+----
+
+Camb (Code for Anisotropies in the Microwave Background) is a cosmology library for calculating theoretical predictions for the cosmic microwave background (CMB) and matter power spectra. It is widely used in the field of cosmology for analyzing data from CMB experiments and large-scale structure surveys.
+
+Camb provides tools for computing the CMB power spectra, matter power spectra, and other related quantities. It is highly configurable, allowing users to specify various cosmological parameters and models.
+
+For more information and to get started with Camb, visit their [official website](https://camb.info).
+
+- **Installation**: `pip install camb`
+- **Source Code**: [GitHub Repository](https://github.com/cmbant/CAMB)
+- **Documentation**: [Camb Documentation](https://camb.readthedocs.io/en/stable/)
+- **Examples**: [Camb Examples Notebook](https://camb.readthedocs.io/en/latest/CAMBdemo.html)
+- **API Reference**: [Camb API](https://camb.readthedocs.io/en/stable/genindex.html)
 
 ### 5. HEAsoft
 - **Description**: Software suite for analyzing astronomical data from high-energy sources like X-rays and gamma rays.
