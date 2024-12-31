@@ -204,16 +204,24 @@ Lightkurve is a Python package for analyzing time series data from NASA's Kepler
 
 Lightkurve is designed to be easy to use, with a focus on enabling quick and efficient analysis of time series data. It also includes tools for detecting and characterizing exoplanets, making it a valuable resource for researchers in the field of exoplanet science.
 
-For more information and to get started with Lightkurve, visit their [official website](https://docs.lightkurve.org).
+For more information and to get started with Lightkurve, visit their [official website](https://lightkurve.github.io/lightkurve/index.html).
 
 - **Installation**: `pip install lightkurve`
 - **Source Code**: [GitHub Repository](https://github.com/lightkurve/lightkurve)
-- **Documentation**: [Lightkurve Documentation](https://docs.lightkurve.org)
-- **Examples**: [Lightkurve Examples](https://docs.lightkurve.org/tutorials.html)
-- **API Reference**: [Lightkurve API](https://docs.lightkurve.org/api.html)
+- **Tutorials**: [Lightkurve Examples](https://lightkurve.github.io/lightkurve/tutorials/index.html)
+- **API Reference**: [Lightkurve API](https://lightkurve.github.io/lightkurve/reference/index.html)
+- **Other similar software**[Similar software that may complement lightkurve ](https://lightkurve.github.io/lightkurve/about/other_software.html)
+
+### Minato
+
+Minato (Massive bINaries Analysis TOols) is a Python package designed for the analysis of massive binary stars. It provides tools for spectral analysis, allowing users to fit the spectra of binary stars simultaneously with synthetic spectra. The package returns effective temperatures, log surface gravities, rotational velocities, He/H ratios, and the light ratio.
+
+- **Source Code**: [GitHub Repository](https://github.com/jvillasr/MINATO)
+- **Documentation**: [Minato Documentation](https://github.com/jvillasr/MINATO)
+- **Tutorials**: [Minato Examples](https://github.com/jvillasr/MINATO/tree/main/minato/tutorials)
 
 ### PyCBC
-<div align="center"><img src="./assets/img/pycbc_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/pycbc_logo.png" width="200" height="200"></div>
 
 ----
 
@@ -226,8 +234,23 @@ For more information and to get started with PyCBC, visit their [official websit
 - **Installation**: `pip install pycbc`
 - **Source Code**: [GitHub Repository](https://github.com/gwastro/pycbc)
 - **Documentation**: [PyCBC Documentation](https://pycbc.org/pycbc/latest/html/)
-- **Examples**: [PyCBC Examples](https://pycbc.org/pycbc/latest/html/examples.html)
-- **API Reference**: [PyCBC API](https://pycbc.org/pycbc/latest/html/api.html)
+- **Tutorials**: [PyCBC Examples](https://github.com/gwastro/PyCBC-Tutorials) [Library Examples and Interactive Tutorials](https://pycbc.org/pycbc/latest/html/tutorials.html)
+- **API Reference**: [PyCBC API](https://pycbc.org/pycbc/latest/html/modules.html)
+
+### RADMC-3D
+
+RADMC-3D is a versatile radiative transfer code for astrophysical applications. It is designed to simulate the propagation of radiation through dusty and gaseous media, making it useful for studying a wide range of astrophysical environments, such as protoplanetary disks, molecular clouds, and circumstellar envelopes.
+
+RADMC-3D supports various types of radiative transfer calculations, including continuum and line transfer, and can handle complex geometries and physical conditions. It is highly configurable, allowing users to customize their simulations to match specific scientific needs.
+
+It runs on linux and OS X.
+
+For more information and to get started with RADMC-3D, visit their [official website](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/).
+
+- **Installation**: [Install RADMC-3D](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/install.html)
+- **Source Code**: [GitHub Repository](https://github.com/dullemond/radmc-3d)
+- **Python Module Package**: [RADMC-3D module package](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/genindex.html)
+- **API Reference**: [RADMC-3D API](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/genindex.html)
 
 ### Spectral-cube
 <div align="center"><img src="./assets/img/spectral_cube_logo.png" width="200" height="100"></div>
