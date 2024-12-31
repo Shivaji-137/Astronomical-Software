@@ -100,7 +100,7 @@ For more information and to get started with Camb, visit their [official website
 - **API Reference**: [Camb API](https://camb.readthedocs.io/en/stable/genindex.html)
 
 ### Cobaya
-<div align="center"><img src="./assets/img/cobaya_camb.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/cobaya_camb.png" width="200" height="200"></div>
 
 ----
 
@@ -117,7 +117,6 @@ For more information and to get started with Cobaya, visit their [official websi
 - **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
 
 ### GASTLI
-<div align="center"><img src="./assets/img/gastli_logo.png" width="200" height="100"></div>
 
 ----
 
@@ -127,11 +126,11 @@ GASTLI is designed to be flexible and user-friendly, with a range of options for
 
 For more information and to get started with GASTLI, visit their [official website](https://gastli.readthedocs.io).
 
-- **Installation**: `pip install gastli`
+- **Installation**: [gastli install](https://gastli.readthedocs.io/en/latest/installation.html)
 - **Source Code**: [GitHub Repository](https://github.com/gastli/gastli)
 - **Documentation**: [GASTLI Documentation](https://gastli.readthedocs.io/en/latest/)
-- **Examples**: [GASTLI Examples](https://gastli.readthedocs.io/en/latest/examples.html)
-- **API Reference**: [GASTLI API](https://gastli.readthedocs.io/en/latest/api.html)
+- **Tutorials**: [GASTLI tutorials](https://gastli.readthedocs.io/en/latest/tutorial.html)
+- **API Reference**: [GASTLI API](https://gastli.readthedocs.io/en/latest/autoapi/index.html)
 
 ### H5py
 <div align="center"><img src="./assets/img/h5py_logo.png" width="200" height="100"></div>
