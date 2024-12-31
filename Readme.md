@@ -44,7 +44,7 @@ For more information and to get started with Astropy, visit their [official webs
 - **API Reference**: [Astropy API](https://docs.astropy.org/en/stable/index_user_docs.html)
 
 ### AstroML
-<div align="center"><img src="./assets/img/astroml.gif" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/astroml.gif" width="300" height="100"></div>
 
 ----
 
