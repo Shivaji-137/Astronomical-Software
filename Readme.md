@@ -9,6 +9,7 @@
     - [Astroquery](#astroquery)
     - [camb](#camb)
     - [cobaya](#cobaya)
+    - [GASTLI](#GASTLI)
     - [h5py](#h5py)
     - [healpy](#healpy)
     - [jdaviz](#jdaviz)
@@ -21,17 +22,23 @@
    - [AstroImageJ](#AstroImageJ)
    - [SAOImageDS9](#SAOImageDS9)
    - [TOPCAT](#topcat)
-   - [IRAF](#iraf)
    - [SExtractor](#sextractor)
 
 ---
 
 ## Python Tools
 
-### 1. Astropy
-- **Description**: Core package for astronomy in Python, including tools for celestial coordinates, time handling, and data manipulation.
-- **Website**: [https://www.astropy.org](https://www.astropy.org)
-- **Installation**: `pip install astropy`
+### Astropy
+<div align="center"><img src="./assets/img/astropy_brandmark.png" width="200" height="200"></div>
+Astropy is a comprehensive library designed to support the core functionality needed for astronomy and astrophysics research. It provides a wide range of tools that are essential for astronomers, including celestial coordinate transformations, time and date handling, unit conversions, and data manipulation. 
+
+One of the key strengths of Astropy is its ability to handle various astronomical file formats, making it easier for researchers to read and write data. Additionally, it offers modules for performing statistical analysis and visualizing data, which are crucial for interpreting astronomical observations.
+
+For more information and to get started with Astropy, visit their [official website](https://www.astropy.org).
+
+- **Installation**: [Install Astropy](https://www.astropy.org/install.html)
+- **Documentation**: [Astropy Documentation](https://docs.astropy.org)
+- **API Reference**: [Astropy API](https://docs.astropy.org/en/stable/api/)
 
 ### 2. Lightkurve
 - **Description**: Toolkit for time-series analysis of light curves, particularly for exoplanet and variable star studies.
