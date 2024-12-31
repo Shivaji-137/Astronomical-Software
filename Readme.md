@@ -311,7 +311,7 @@ For more information and to get started with Spectral-cube, visit their [officia
 
 
 
-## Executable Software
+## <img src="./assets/img/executable_icon.png" alt="Logo" width="27" height="27"> Executable Software
 
 ### Aladin
 <div align="center"><img src="./assets/img/aladin.ico" width="100" height="100"></div>
