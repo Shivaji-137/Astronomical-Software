@@ -117,7 +117,7 @@ For more information and to get started with Cobaya, visit their [official websi
 - **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
 
 ### Dustpy
-<div align="center"><img src="./assets/img/dustpy_logo.png" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/dustpy_logo.png" width="200" height="100"></div>
 
 ----
 
@@ -125,7 +125,7 @@ Dustpy is a Python package for simulating the evolution of dust in protoplanetar
 
 Dustpy is designed to be flexible and user-friendly, with a range of options for customizing simulations. It is particularly useful for studying the processes that lead to planet formation.
 
-For more information and to get started with Dustpy, visit their [official website](https://dustpy.readthedocs.io).
+For more information and to get started with Dustpy, visit their [official website](https://stammler.github.io/dustpy/).
 
 - **Installation**: `pip install dustpy`
 - **Source Code**: [GitHub Repository](https://github.com/stammler/dustpy)
@@ -150,7 +150,6 @@ For more information and to get started with GASTLI, visit their [official websi
 - **API Reference**: [GASTLI API](https://gastli.readthedocs.io/en/latest/autoapi/index.html)
 
 ### H5py
-<div align="center"><img src="./assets/img/h5py_logo.png" width="200" height="100"></div>
 
 ----
 
@@ -165,6 +164,8 @@ For more information and to get started with H5py, visit their [official website
 - **Documentation**: [H5py Documentation](https://docs.h5py.org/en/stable/)
 - **Examples**: [H5py Examples](https://docs.h5py.org/en/stable/quick.html)
 - **API Reference**: [H5py API](https://docs.h5py.org/en/stable/genindex.html)
+- **BOOKS**:
+    - [O'Reilly book, Python and HDF5, written by the lead author of h5py, Andrew Collette](http://shop.oreilly.com/product/0636920030249.do)
 
 ### Healpy
 <div align="center"><img src="./assets/img/healpy_logo.png" width="200" height="100"></div>
