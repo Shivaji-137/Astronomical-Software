@@ -116,6 +116,23 @@ For more information and to get started with Cobaya, visit their [official websi
 - **Examples**: [Cobaya Examples](https://cobaya.readthedocs.io/en/latest/example.html)
 - **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
 
+### Dustpy
+<div align="center"><img src="./assets/img/dustpy_logo.png" width="100" height="100"></div>
+
+----
+
+Dustpy is a Python package for simulating the evolution of dust in protoplanetary disks. It provides tools for modeling the growth, fragmentation, and dynamics of dust particles in these environments.
+
+Dustpy is designed to be flexible and user-friendly, with a range of options for customizing simulations. It is particularly useful for studying the processes that lead to planet formation.
+
+For more information and to get started with Dustpy, visit their [official website](https://dustpy.readthedocs.io).
+
+- **Installation**: `pip install dustpy`
+- **Source Code**: [GitHub Repository](https://github.com/stammler/dustpy)
+- **Documentation**: [Dustpy Documentation](https://stammler.github.io/dustpy/index.html#dustpy-documentation)
+- **Examples**: [Dustpy Basic Usages](https://stammler.github.io/dustpy/1_basics.html)
+- **API Reference**: [Dustpy API](https://stammler.github.io/dustpy/api.html)
+
 ### GASTLI
 
 ----
