@@ -350,7 +350,7 @@ CASA provides a range of tools for data calibration, imaging, and analysis, incl
 For more information and to get started with CASA, visit their [official website](https://casa.nrao.edu).
 
 - **Installation**: [Install CASA](https://casa.nrao.edu/casa_obtaining.shtml)
-- **Source Code**: [GitHub Repository](https://github.com/casangi/casa)
+- **Source Code**: [GitHub Repository](https://github.com/casangi)
 - **Documentation**: [CASA Documentation](https://casadocs.readthedocs.io/en/stable/)
 - **Tutorials**: [CASA Tutorials](https://casaguides.nrao.edu/index.php?title=Main_Page)
 - **API Reference**: [CASA API](https://casadocs.readthedocs.io/en/stable/api.html)
