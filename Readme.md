@@ -40,11 +40,13 @@ One of the key strengths of Astropy is its ability to handle various astronomica
 For more information and to get started with Astropy, visit their [official website](https://www.astropy.org).
 
 - **Installation**: [Install Astropy](https://docs.astropy.org/en/stable/install.html#installing-astropy)
+- **Pip Installation**: `pip install astropy`
+- **Source Code**: [GitHub Repository](https://github.com/astropy/astropy)
 - **Tutorials**: [Learn Tutorials](https://learn.astropy.org/)
 - **API Reference**: [Astropy API](https://docs.astropy.org/en/stable/index_user_docs.html)
 
 ### AstroML
-<div align="center"><img src="./assets/img/astroml.gif" width="300" height="100"></div>
+<div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
 
 ----
 
@@ -55,15 +57,30 @@ AstroML includes tools for data preprocessing, feature selection, regression, cl
 For more information and to get started with AstroML, visit their [official website](https://www.astroml.org).
 
 - **Installation**: [Install AstroML](https://www.astroml.org/user_guide/installation.html)
+- **Source Code**: [GitHub Repository](https://github.com/astroML/astroML)
+- **Pip Installation**: `pip install astroML`
 - **Tutorials**: [AstroML Tutorials](https://www.astroml.org/examples/index.html)
 - **Books**: [AstroML Interactive Book](https://www.astroml.org/astroML-notebooks/)
 - **Additional Resources**: [Textbook Figures](https://www.astroml.org/book_figures/)
 - **API Reference**: [AstroML API](https://www.astroml.org/modules/classes.html)
 
-### 3. Astroquery
-- **Description**: Library for querying astronomical databases and archives.
-- **Website**: [https://astroquery.readthedocs.io](https://astroquery.readthedocs.io)
+### Astroquery
+<div align="center"><img src="./assets/img/astroquery_logo.png" width="100" height="100"></div>
+
+----
+
+Astroquery is a Python package that provides a simple interface for querying astronomical databases and archives. It allows users to access a wide range of data sources, including NASA's archives, the European Space Agency's archives, and many others. The library is designed to be easy to use, with a consistent API that simplifies the process of querying and retrieving data.
+
+Astroquery supports a variety of query types, including cone searches, image searches, and spectral searches. It also provides tools for handling the returned data, making it easier to integrate into your analysis workflows.
+
+For more information and to get started with Astroquery, visit their [official website](https://astroquery.readthedocs.io).
+
 - **Installation**: `pip install astroquery`
+- **Tutorials**: [Astroquery Tutorials](https://astroquery.readthedocs.io/en/latest/index.html#using-astroquery)
+- **API Reference**: [Astroquery API](https://astroquery.readthedocs.io/en/latest/genindex.html)
+- **Source Code**: [GitHub Repository](https://github.com/astropy/astroquery)
+- **User Guide**: [Astroquery User Guide](https://astroquery.readthedocs.io/en/latest/userguide.html)
+
 
 ### 4. PyCBC
 - **Description**: Toolkit for gravitational wave data analysis.
