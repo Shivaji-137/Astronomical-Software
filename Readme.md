@@ -135,8 +135,6 @@ For more information and to get started with Dustpy, visit their [official websi
 
 ### GASTLI
 
-----
-
 GASTLI (Galactic and Stellar Light) is a Python package for simulating and analyzing the light from galaxies and stars. It provides tools for generating synthetic photometry, modeling stellar populations, and fitting observed data.
 
 GASTLI is designed to be flexible and user-friendly, with a range of options for customizing simulations and analyses. It is particularly useful for studying the properties of galaxies and their stellar populations.
@@ -150,8 +148,6 @@ For more information and to get started with GASTLI, visit their [official websi
 - **API Reference**: [GASTLI API](https://gastli.readthedocs.io/en/latest/autoapi/index.html)
 
 ### H5py
-
-----
 
 H5py is a Python interface to the HDF5 binary data format, which is widely used in scientific computing for storing large datasets. It allows users to read and write HDF5 files, providing a flexible and efficient way to manage complex data.
 
@@ -168,9 +164,6 @@ For more information and to get started with H5py, visit their [official website
     - [O'Reilly book, Python and HDF5, written by the lead author of h5py, Andrew Collette](http://shop.oreilly.com/product/0636920030249.do)
 
 ### Healpy
-<div align="center"><img src="./assets/img/healpy_logo.png" width="200" height="100"></div>
-
-----
 
 Healpy is a Python package for working with HEALPix (Hierarchical Equal Area isoLatitude Pixelation) data, which is commonly used in astronomy for analyzing spherical data, such as maps of the cosmic microwave background.
 
@@ -187,6 +180,7 @@ For more information and to get started with Healpy, visit their [official websi
 ### Jdaviz
 <div align="center"><img src="./assets/img/jdaviz.svg" width="100" height="100"></div>
 ----
+
 <div align="center"><img src="./assets/img/jdaviz-launcher.png" width="100" height="100"></div>
 ----
 
