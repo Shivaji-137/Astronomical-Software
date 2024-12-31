@@ -10,6 +10,7 @@
     - [Camb](#camb)
     - [Cobaya](#cobaya)
     - [Dustpy](#Dustpy)
+    - [Gala](#gala)
     - [GASTLI](#GASTLI)
     - [H5py](#h5py)
     - [Healpy](#healpy)
@@ -135,6 +136,23 @@ For more information and to get started with Dustpy, visit their [official websi
 - **Examples**: [Dustpy Basic Usages](https://stammler.github.io/dustpy/1_basics.html)
 - **API Reference**: [Dustpy API](https://stammler.github.io/dustpy/api.html)
 
+### Gala
+<div align="center"><img src="./assets/img/Gala_Logo.png" width="200" height="200"></div>
+
+----
+
+Gala is a Python package for galactic dynamics. It provides tools for analyzing the orbits of stars and other objects in the Milky Way and other galaxies. The package includes functions for integrating orbits, estimating potential parameters, and performing various dynamical analyses.
+
+Gala is designed to be flexible and user-friendly, with a range of options for customizing analyses. It is particularly useful for studying the structure and dynamics of galaxies.
+
+For more information and to get started with Gala, visit their [official website](https://gala.adrian.pw).
+
+- **Installation**: `pip install gala`
+- **Source Code**: [GitHub Repository](https://github.com/adrn/gala)
+- **Documentation**: [Gala Documentation](https://gala.adrian.pw/en/latest/)
+- **Tutorials**: [Gala Tutorials](https://gala.adrian.pw/en/latest/tutorials/index.html)
+- **API Reference**: [Gala API](https://gala.adrian.pw/en/latest/api.html)
+
 ### GASTLI
 
 GASTLI (Galactic and Stellar Light) is a Python package for simulating and analyzing the light from galaxies and stars. It provides tools for generating synthetic photometry, modeling stellar populations, and fitting observed data.
@@ -252,7 +270,7 @@ For more information and to get started with RADMC-3D, visit their [official web
 - **API Reference**: [RADMC-3D API](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/genindex.html)
 
 ### Spectral-cube
-<div align="center"><img src="./assets/img/spectral_cube_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/spectral_cube.svg" width="200" height="200"></div>
 
 ----
 
@@ -268,23 +286,7 @@ For more information and to get started with Spectral-cube, visit their [officia
 - **Examples**: [Spectral-cube Examples](https://spectral-cube.readthedocs.io/en/latest/examples.html)
 - **API Reference**: [Spectral-cube API](https://spectral-cube.readthedocs.io/en/latest/api.html)
 
-### HEAsoft
-<div align="center"><img src="./assets/img/heasoft_logo.png" width="200" height="100"></div>
 
-----
-
-HEAsoft (High Energy Astrophysics Software) is a collection of software tools for analyzing data from high-energy astrophysics missions, such as X-ray and gamma-ray observatories. It includes a wide range of tools for data reduction, analysis, and visualization.
-
-HEAsoft is designed to be comprehensive and flexible, with support for various data formats and analysis techniques. It is widely used in the field of high-energy astrophysics for studying phenomena such as black holes, neutron stars, and supernovae.
-
-For more information and to get started with HEAsoft, visit their [official website](https://heasarc.gsfc.nasa.gov/docs/software/heasoft).
-
-- **Installation**: [Install HEAsoft](https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/download.html)
-- **Source Code**: [GitHub Repository](https://github.com/HEASARC/heasoft)
-- **Documentation**: [HEAsoft Documentation](https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/)
-- **Examples**: [HEAsoft Examples](https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/ftools/ftools_examples.html)
-- **API Reference**: [HEAsoft API](https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/api.html)
----
 
 ## Executable Software
 
