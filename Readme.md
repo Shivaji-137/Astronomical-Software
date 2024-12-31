@@ -25,6 +25,7 @@
    - [Aladin](#aladin)
    - [AstroImageJ](#AstroImageJ)
    - [CASA](#CASA)
+   - [CosmoMC](#CosmoMC)
    - [SAOImageDS9](#SAOImageDS9)
    - [TOPCAT](#topcat)
    - [SExtractor](#sextractor)
@@ -354,6 +355,23 @@ For more information and to get started with CASA, visit their [official website
 - **Documentation**: [CASA Documentation](https://casadocs.readthedocs.io/en/stable/)
 - **Tutorials**: [CASA Tutorials](https://casaguides.nrao.edu/index.php?title=Main_Page)
 - **API Reference**: [CASA API](https://casadocs.readthedocs.io/en/stable/api.html)
+
+### CosmoMC
+<div align="center"><img src="./assets/img//cmcc_.png" width="200" height="200"></div>
+
+----
+
+CosmoMC is a Markov Chain Monte Carlo (MCMC) engine for exploring cosmological parameter space. It is widely used in the field of cosmology for analyzing data from cosmic microwave background (CMB) experiments, large-scale structure surveys, and other cosmological observations.
+
+CosmoMC provides tools for performing Bayesian inference on cosmological models, allowing users to estimate parameters and their uncertainties. It is highly configurable, with support for various cosmological models and data sets.
+
+For more information and to get started with CosmoMC, visit their [official website](https://cosmologist.info/cosmomc/).
+
+- **Installation**: [Install CosmoMC](https://cosmologist.info/cosmomc/readme.html)
+- **Source Code**: [GitHub Repository](https://github.com/cmbant/CosmoMC)
+- **Documentation**: [CosmoMC Documentation](https://cosmologist.info/cosmomc/readme.html)
+- **Examples**: [CosmoMC Examples](https://cosmologist.info/cosmomc/examples.html)
+- **API Reference**: [CosmoMC API](https://cosmologist.info/cosmomc/api.html)
 
 ### SAOImageDS9
 <div align="center"><img src="./assets/img/ds9.png" width="200" height="200"></div>
