@@ -2,6 +2,8 @@
 <p align="center"><em>Pillars of Creation (NIRCam and MIRI Composite Image). Image Credit: NASA, ESA, CSA, and STScI</em></p>
 
 # Shivaji - Astronomical Software Tools
+Welcome to the Astronomical Software Tools repository! This collection is dedicated to providing a comprehensive list of software tools and libraries that are essential for astronomical research and data analysis. Whether you are working with Python-based tools or standalone executable software, this repository aims to be a valuable resource for astronomers and astrophysicists. Explore the various tools listed below to enhance your research and streamline your workflows.
+
 ## Table of Contents
 - [<img src="./assets/img/pythonlogo.ico" alt="Logo" width="15" height="15"> Python Tools](#python-tools)
     - [Astropy](#astropy)
@@ -417,4 +419,3 @@ Feel free to submit issues or pull requests for additional tools or updates.
 
 ## License
 MIT License
-
