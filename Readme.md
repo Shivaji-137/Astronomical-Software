@@ -29,7 +29,7 @@
 ## Python Tools
 
 ### Astropy
-<div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="200"></div>
+<div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
 Astropy is a comprehensive library designed to support the core functionality needed for astronomy and astrophysics research. It provides a wide range of tools that are essential for astronomers, including celestial coordinate transformations, time and date handling, unit conversions, and data manipulation. 
 
 One of the key strengths of Astropy is its ability to handle various astronomical file formats, making it easier for researchers to read and write data. Additionally, it offers modules for performing statistical analysis and visualizing data, which are crucial for interpreting astronomical observations.
