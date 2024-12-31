@@ -100,7 +100,7 @@ For more information and to get started with Camb, visit their [official website
 - **API Reference**: [Camb API](https://camb.readthedocs.io/en/stable/genindex.html)
 
 ### Cobaya
-<div align="center"><img src="./assets/img/cobaya_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/cobaya_camb.png" width="200" height="100"></div>
 
 ----
 
@@ -110,11 +110,11 @@ Cobaya is highly modular and can interface with other cosmological codes, such a
 
 For more information and to get started with Cobaya, visit their [official website](https://cobaya.readthedocs.io).
 
-- **Installation**: `pip install cobaya`
+- **Installation**: [`pip install cobaya`](https://cobaya.readthedocs.io/en/latest/installation.html)
 - **Source Code**: [GitHub Repository](https://github.com/CobayaSampler/cobaya)
 - **Documentation**: [Cobaya Documentation](https://cobaya.readthedocs.io/en/latest/)
-- **Examples**: [Cobaya Examples](https://cobaya.readthedocs.io/en/latest/examples.html)
-- **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/api.html)
+- **Examples**: [Cobaya Examples](https://cobaya.readthedocs.io/en/latest/example.html)
+- **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
 
 ### GASTLI
 <div align="center"><img src="./assets/img/gastli_logo.png" width="200" height="100"></div>
