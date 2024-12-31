@@ -9,12 +9,14 @@
     - [Astroquery](#astroquery)
     - [Camb](#camb)
     - [Cobaya](#cobaya)
+    - [Dustpy](#Dustpy)
     - [GASTLI](#GASTLI)
     - [H5py](#h5py)
     - [Healpy](#healpy)
     - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
     - [PyCBC](#pycbc)
+    - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
     - [HEAsoft](#heasoft)
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
@@ -196,9 +198,6 @@ For more information and to get started with Jdaviz, visit their [official websi
 - **API Reference**: [Jdaviz API](https://jdaviz.readthedocs.io/en/stable/reference/api.html)
 
 ### Lightkurve
-<div align="center"><img src="./assets/img/lightkurve_logo.png" width="200" height="100"></div>
-
-----
 
 Lightkurve is a Python package for analyzing time series data from NASA's Kepler and TESS missions. It provides tools for working with light curves, including functions for reading, manipulating, and visualizing the data.
 
@@ -221,7 +220,7 @@ Minato (Massive bINaries Analysis TOols) is a Python package designed for the an
 - **Tutorials**: [Minato Examples](https://github.com/jvillasr/MINATO/tree/main/minato/tutorials)
 
 ### PyCBC
-<div align="center"><img src="./assets/img/pycbc_logo.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/pycbc_logo.png" width="400" height="200"></div>
 
 ----
 
