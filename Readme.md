@@ -333,13 +333,12 @@ AstroImageJ is an astronomical image processing software based on ImageJ. It pro
 
 For more information and to get started with AstroImageJ, visit their [official website](https://www.astro.louisville.edu/software/astroimagej/).
 
-- **Installation**: [Install AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/installation.html)
-- **Source Code**: [GitHub Repository](https://github.com/karpov-sv/AstroImageJ)
+- **Installation**: [Download AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/installation_packages/)
 - **Documentation**: [AstroImageJ Documentation](https://www.astro.louisville.edu/software/astroimagej/AIJ_Documentation/)
-- **Tutorials**: [AstroImageJ Tutorials](https://www.astro.louisville.edu/software/astroimagej/tutorials/)
+- **Tutorials**: [AstroImageJ Tutorials](https://www.astro.physik.uni-goettingen.de/~hessman/ImageJ/Book/index.html)
 
 ### SAOImageDS9
-<div align="center"><img src="./assets/img/ds9_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/ds9.png" width="200" height="100"></div>
 
 ----
 
@@ -348,12 +347,11 @@ SAOImageDS9 is a tool for visualizing astronomical imaging data. It supports a w
 For more information and to get started with SAOImageDS9, visit their [official website](https://sites.google.com/cfa.harvard.edu/saoimageds9).
 
 - **Installation**: [Install SAOImageDS9](https://sites.google.com/cfa.harvard.edu/saoimageds9/download)
-- **Source Code**: [GitHub Repository](https://github.com/ericmandel/SAOImageDS9)
 - **Documentation**: [SAOImageDS9 Documentation](https://sites.google.com/cfa.harvard.edu/saoimageds9/documentation)
-- **Tutorials**: [SAOImageDS9 Tutorials](https://sites.google.com/cfa.harvard.edu/saoimageds9/tutorials)
+- **Tutorials**: [SAOImageDS9 Tutorials](https://www.youtube.com/user/4ciaodemos)
 
 ### TOPCAT
-<div align="center"><img src="./assets/img/topcat_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/tc_sok.png" width="200" height="200"><img src="./assets/img/topcat.png" width="200" height="200"></div>
 
 ----
 
@@ -362,7 +360,6 @@ TOPCAT is software for catalog manipulation and visualization. It provides tools
 For more information and to get started with TOPCAT, visit their [official website](http://www.star.bristol.ac.uk/~mbt/topcat/).
 
 - **Installation**: [Install TOPCAT](http://www.star.bristol.ac.uk/~mbt/topcat/#install)
-- **Source Code**: [GitHub Repository](https://github.com/Starlink/Topcat)
 - **Documentation**: [TOPCAT Documentation](http://www.star.bristol.ac.uk/~mbt/topcat/#docs)
 - **Tutorials**: [TOPCAT Tutorials](http://www.star.bristol.ac.uk/~mbt/topcat/#tutorials)
 
@@ -376,7 +373,6 @@ SExtractor (Source Extractor) is a tool for source extraction from astronomical 
 For more information and to get started with SExtractor, visit their [official website](https://sextractor.readthedocs.io).
 
 - **Installation**: [Install SExtractor](https://sextractor.readthedocs.io/en/latest/Installation.html)
-- **Source Code**: [GitHub Repository](https://github.com/astromatic/sextractor)
 - **Documentation**: [SExtractor Documentation](https://sextractor.readthedocs.io/en/latest/)
 - **Tutorials**: [SExtractor Tutorials](https://sextractor.readthedocs.io/en/latest/Tutorial.html)
 
