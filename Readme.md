@@ -30,11 +30,9 @@
 
 ### Astropy
 <div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
-----
-
-|Actions Status| |CircleCI Status| |Coverage Status| |PyPI Status| |Documentation Status| |Pre-Commit| |Ruff| |Zenodo|
 
 ----
+
 Astropy is a comprehensive library designed to support the core functionality needed for astronomy and astrophysics research. It provides a wide range of tools that are essential for astronomers, including celestial coordinate transformations, time and date handling, unit conversions, and data manipulation. 
 
 One of the key strengths of Astropy is its ability to handle various astronomical file formats, making it easier for researchers to read and write data. Additionally, it offers modules for performing statistical analysis and visualizing data, which are crucial for interpreting astronomical observations.
@@ -42,14 +40,25 @@ One of the key strengths of Astropy is its ability to handle various astronomica
 For more information and to get started with Astropy, visit their [official website](https://www.astropy.org).
 
 - **Installation**: [Install Astropy](https://docs.astropy.org/en/stable/install.html#installing-astropy)
-- **Tutorials**: [Astropy Tutorials](https://learn.astropy.org/)
-- **Documentation**: [Astropy Documentation](https://docs.astropy.org)
+- **Tutorials**: [Learn Tutorials](https://learn.astropy.org/)
 - **API Reference**: [Astropy API](https://docs.astropy.org/en/stable/index_user_docs.html)
 
-### 2. Lightkurve
-- **Description**: Toolkit for time-series analysis of light curves, particularly for exoplanet and variable star studies.
-- **Website**: [https://docs.lightkurve.org](https://docs.lightkurve.org)
-- **Installation**: `pip install lightkurve`
+### AstroML
+<div align="center"><img src="./assets/img/astroml.gif" width="100" height="100"></div>
+
+----
+
+AstroML is a Python module for machine learning and data mining built specifically for astronomy. It contains a growing library of statistical and machine learning routines for analyzing astronomical data in a variety of formats. The library is designed to be flexible and easy to use, making it a valuable tool for both researchers and educators.
+
+AstroML includes tools for data preprocessing, feature selection, regression, classification, clustering, and more. It also provides a collection of example datasets and scripts to help users get started quickly.
+
+For more information and to get started with AstroML, visit their [official website](https://www.astroml.org).
+
+- **Installation**: [Install AstroML](https://www.astroml.org/user_guide/installation.html)
+- **Tutorials**: [AstroML Tutorials](https://www.astroml.org/examples/index.html)
+- **Books**: [AstroML Interactive Book](https://www.astroml.org/astroML-notebooks/)
+- **Additional Resources**: [Textbook Figures](https://www.astroml.org/book_figures/)
+- **API Reference**: [AstroML API](https://www.astroml.org/modules/classes.html)
 
 ### 3. Astroquery
 - **Description**: Library for querying astronomical databases and archives.
