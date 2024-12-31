@@ -339,7 +339,7 @@ For more information and to get started with AstroImageJ, visit their [official 
 - **Tutorials**: [AstroImageJ Tutorials](https://www.astro.physik.uni-goettingen.de/~hessman/ImageJ/Book/index.html)
 
 ### CASA
-<div align="center"><img src="./assets/img/casa_logo.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/casa_logo.png" width="200" height="150"></div>
 
 ----
 
