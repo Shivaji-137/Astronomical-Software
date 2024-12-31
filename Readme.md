@@ -79,7 +79,7 @@ For more information and to get started with Astroquery, visit their [official w
 - **Tutorials**: [Astroquery Tutorials](https://astroquery.readthedocs.io/en/latest/index.html#using-astroquery)
 - **API Reference**: [Astroquery API](https://astroquery.readthedocs.io/en/latest/genindex.html)
 - **Source Code**: [GitHub Repository](https://github.com/astropy/astroquery)
-- **User Guide**: [Astroquery User Guide](https://astroquery.readthedocs.io/en/latest/userguide.html)
+- **Python module Index**: [Useful API](https://astroquery.readthedocs.io/en/latest/py-modindex.html)
 
 
 ### 4. PyCBC
