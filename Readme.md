@@ -314,17 +314,18 @@ For more information and to get started with Spectral-cube, visit their [officia
 
 ----
 
-Aladin is an interactive sky atlas for data visualization. It allows users to visualize and analyze astronomical images and catalogs. Aladin supports a wide range of data formats and provides tools for overlaying and comparing different datasets.
+Aladin  is an interactive sky atlas for data visualization. It allows users to visualize and analyze astronomical images and catalogs. Aladin supports a wide range of data formats and provides tools for overlaying and comparing different datasets.
+
+Aladin desktop runs on windows, linux and mac.
 
 For more information and to get started with Aladin, visit their [official website](https://aladin.u-strasbg.fr).
 
 - **Installation**: [Download Aladin](https://aladin.u-strasbg.fr/java/nph-aladin.pl?frame=downloading)
-- **Source Code**: [GitHub Repository](https://github.com/astrorama/Aladin)
 - **Documentation**: [Aladin Documentation](https://aladin.u-strasbg.fr/java/AladinManual6.pdf)
 - **Tutorials**: [Aladin Tutorials](https://aladin.u-strasbg.fr/java/AladinManual6.pdf#page=6)
 
 ### AstroImageJ
-<div align="center"><img src="./assets/img/astroimagej_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/aij_image_display_w400.png" width="200" height="200"><img src="./assets/img/aij_light_curve_w400.png" width="200" height="200"></div>
 
 ----
 
@@ -378,26 +379,6 @@ For more information and to get started with SExtractor, visit their [official w
 - **Source Code**: [GitHub Repository](https://github.com/astromatic/sextractor)
 - **Documentation**: [SExtractor Documentation](https://sextractor.readthedocs.io/en/latest/)
 - **Tutorials**: [SExtractor Tutorials](https://sextractor.readthedocs.io/en/latest/Tutorial.html)
-
-### 1. DS9
-- **Description**: Tool for visualizing astronomical imaging data.
-- **Website**: [https://sites.google.com/cfa.harvard.edu/saoimageds9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
-
-### 2. TOPCAT
-- **Description**: Software for catalog manipulation and visualization.
-- **Website**: [http://www.star.bristol.ac.uk/~mbt/topcat/](http://www.star.bristol.ac.uk/~mbt/topcat/)
-
-### 3. Aladin
-- **Description**: Interactive sky atlas for data visualization.
-- **Website**: [https://aladin.u-strasbg.fr](https://aladin.u-strasbg.fr)
-
-### 4. IRAF
-- **Description**: Software system for image processing and data analysis.
-- **Website**: [https://iraf-community.github.io](https://iraf-community.github.io)
-
-### 5. SExtractor
-- **Description**: Tool for source extraction from astronomical images.
-- **Website**: [https://sextractor.readthedocs.io](https://sextractor.readthedocs.io)
 
 ---
 
