@@ -24,6 +24,7 @@
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
    - [Aladin](#aladin)
    - [AstroImageJ](#AstroImageJ)
+   - [CASA](#CASA)
    - [SAOImageDS9](#SAOImageDS9)
    - [TOPCAT](#topcat)
    - [SExtractor](#sextractor)
@@ -337,6 +338,23 @@ For more information and to get started with AstroImageJ, visit their [official 
 - **Documentation**: [AstroImageJ Documentation](https://www.astro.louisville.edu/software/astroimagej/AIJ_Documentation/)
 - **Tutorials**: [AstroImageJ Tutorials](https://www.astro.physik.uni-goettingen.de/~hessman/ImageJ/Book/index.html)
 
+### CASA
+<div align="center"><img src="./assets/img/casa_logo.png" width="200" height="200"></div>
+
+----
+
+CASA (Common Astronomy Software Applications) is a software suite for the calibration and analysis of radio astronomical data. It is widely used for processing data from radio telescopes, such as the Atacama Large Millimeter/submillimeter Array (ALMA) and the Very Large Array (VLA).
+
+CASA provides a range of tools for data calibration, imaging, and analysis, including functions for flagging, calibration, imaging, and visualization. It is designed to be flexible and user-friendly, with a Python-based interface that allows for scripting and automation.
+
+For more information and to get started with CASA, visit their [official website](https://casa.nrao.edu).
+
+- **Installation**: [Install CASA](https://casa.nrao.edu/casa_obtaining.shtml)
+- **Source Code**: [GitHub Repository](https://github.com/casangi/casa)
+- **Documentation**: [CASA Documentation](https://casadocs.readthedocs.io/en/stable/)
+- **Tutorials**: [CASA Tutorials](https://casaguides.nrao.edu/index.php?title=Main_Page)
+- **API Reference**: [CASA API](https://casadocs.readthedocs.io/en/stable/api.html)
+
 ### SAOImageDS9
 <div align="center"><img src="./assets/img/ds9.png" width="200" height="200"></div>
 
@@ -364,17 +382,15 @@ For more information and to get started with TOPCAT, visit their [official websi
 - **Tutorials**: [TOPCAT Tutorials](http://www.star.bristol.ac.uk/~mbt/topcat/#tutorials)
 
 ### SExtractor
-<div align="center"><img src="./assets/img/sextractor_logo.png" width="200" height="100"></div>
-
-----
 
 SExtractor (Source Extractor) is a tool for source extraction from astronomical images. It provides tools for detecting and measuring the properties of sources in images, including photometry and astrometry.
 
 For more information and to get started with SExtractor, visit their [official website](https://sextractor.readthedocs.io).
 
-- **Installation**: [Install SExtractor](https://sextractor.readthedocs.io/en/latest/Installation.html)
+- **Installation**: [Install SExtractor](https://sextractor.readthedocs.io/en/latest/Installing.html)
 - **Documentation**: [SExtractor Documentation](https://sextractor.readthedocs.io/en/latest/)
-- **Tutorials**: [SExtractor Tutorials](https://sextractor.readthedocs.io/en/latest/Tutorial.html)
+- **Github**:[Github Sources](write for github:https://github.com/astromatic/sextractor)
+- **Tutorials**: [SExtractor Tutorials](https://sextractor.readthedocs.io/en/latest/Using.html)
 
 ---
 
