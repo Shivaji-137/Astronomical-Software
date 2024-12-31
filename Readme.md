@@ -357,7 +357,7 @@ For more information and to get started with CASA, visit their [official website
 - **API Reference**: [CASA API](https://casadocs.readthedocs.io/en/stable/api.html)
 
 ### CosmoMC
-<div align="center"><img src="./assets/img//cmcc_.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img//cmcc_.png" width="300" height="300"></div>
 
 ----
 
@@ -367,11 +367,9 @@ CosmoMC provides tools for performing Bayesian inference on cosmological models,
 
 For more information and to get started with CosmoMC, visit their [official website](https://cosmologist.info/cosmomc/).
 
-- **Installation**: [Install CosmoMC](https://cosmologist.info/cosmomc/readme.html)
+- **Installation**: [Install CosmoMC](https://cosmologist.info/cosmomc/readme.html#Compiling)
 - **Source Code**: [GitHub Repository](https://github.com/cmbant/CosmoMC)
 - **Documentation**: [CosmoMC Documentation](https://cosmologist.info/cosmomc/readme.html)
-- **Examples**: [CosmoMC Examples](https://cosmologist.info/cosmomc/examples.html)
-- **API Reference**: [CosmoMC API](https://cosmologist.info/cosmomc/api.html)
 
 ### SAOImageDS9
 <div align="center"><img src="./assets/img/ds9.png" width="200" height="200"></div>
