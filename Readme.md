@@ -46,7 +46,7 @@ For more information and to get started with Astropy, visit their [official webs
 - **API Reference**: [Astropy API](https://docs.astropy.org/en/stable/index_user_docs.html)
 
 ### AstroML
-<div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/astroml.gif" width="300" height="100"></div>
 
 ----
 
@@ -65,7 +65,7 @@ For more information and to get started with AstroML, visit their [official webs
 - **API Reference**: [AstroML API](https://www.astroml.org/modules/classes.html)
 
 ### Astroquery
-<div align="center"><img src="./assets/img/astroquery_logo.png" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
 
 ----
 
