@@ -16,6 +16,7 @@
     - [Healpy](#healpy)
     - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
+    - [Photutils](#Photutils)
     - [PyCBC](#pycbc)
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
@@ -137,7 +138,7 @@ For more information and to get started with Dustpy, visit their [official websi
 - **API Reference**: [Dustpy API](https://stammler.github.io/dustpy/api.html)
 
 ### Gala
-<div align="center"><img src="./assets/img/Gala_Logo.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/Gala_Logo.png" width="200" height="100"></div>
 
 ----
 
@@ -150,8 +151,8 @@ For more information and to get started with Gala, visit their [official website
 - **Installation**: `pip install gala`
 - **Source Code**: [GitHub Repository](https://github.com/adrn/gala)
 - **Documentation**: [Gala Documentation](https://gala.adrian.pw/en/latest/)
-- **Tutorials**: [Gala Tutorials](https://gala.adrian.pw/en/latest/tutorials/index.html)
-- **API Reference**: [Gala API](https://gala.adrian.pw/en/latest/api.html)
+- **Tutorials**: [Gala Tutorials](https://gala.adrian.pw/en/latest/tutorials.html)
+- **API Reference**: [Gala API](https://gala.adrian.pw/en/latest/user_guide.html)
 
 ### GASTLI
 
@@ -236,6 +237,23 @@ Minato (Massive bINaries Analysis TOols) is a Python package designed for the an
 - **Source Code**: [GitHub Repository](https://github.com/jvillasr/MINATO)
 - **Documentation**: [Minato Documentation](https://github.com/jvillasr/MINATO)
 - **Tutorials**: [Minato Examples](https://github.com/jvillasr/MINATO/tree/main/minato/tutorials)
+
+### Photutils
+<div align="center"><img src="./assets/img/photutils_logo.svg" width="200" height="100"></div>
+
+----
+
+Photutils is a Python package for detecting and performing photometry of astronomical sources. It provides tools for source detection, aperture photometry, point spread function (PSF) photometry, and background estimation.
+
+Photutils is designed to be flexible and easy to use, with a range of options for customizing analyses. It integrates well with other scientific libraries, such as Astropy, making it a valuable tool for astronomers.
+
+For more information and to get started with Photutils, visit their [official website](https://photutils.readthedocs.io).
+
+- **Installation**: `pip install photutils`
+- **Source Code**: [GitHub Repository](https://github.com/astropy/photutils)
+- **Documentation**: [Photutils Documentation](https://photutils.readthedocs.io/en/stable/)
+- **Tutorials**: [Photutils Tutorials](https://photutils.readthedocs.io/en/stable/tutorials.html)
+- **API Reference**: [Photutils API](https://photutils.readthedocs.io/en/stable/api.html)
 
 ### PyCBC
 <div align="center"><img src="./assets/img/pycbc_logo.png" width="400" height="200"></div>
