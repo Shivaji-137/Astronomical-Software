@@ -178,10 +178,9 @@ For more information and to get started with Healpy, visit their [official websi
 - **API Reference**: [Healpy API](https://healpy.readthedocs.io/en/latest/genindex.html)
 
 ### Jdaviz
-<div align="center"><img src="./assets/img/jdaviz.svg" width="100" height="100"></div>
-----
 
-<div align="center"><img src="./assets/img/jdaviz-launcher.png" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/jdaviz-launcher.png" width="400" height="200"></div>
+
 ----
 
 Jdaviz is a suite of interactive data visualization tools for astronomy, built on the Jupyter platform. It provides a range of applications for visualizing and analyzing different types of astronomical data, including spectra, images, and cubes.
