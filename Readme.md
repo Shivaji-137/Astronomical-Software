@@ -30,7 +30,8 @@
 
 ---
 
-## Python Tools
+## <img src="./assets/img/pythonlogo.ico" alt="Logo" width="15" height="15"> Python Tools
+
 
 ### Astropy
 <div align="center"><img src="./assets/img/astropy_brandmark.png" width="100" height="100"></div>
@@ -252,8 +253,8 @@ For more information and to get started with Photutils, visit their [official we
 - **Installation**: `pip install photutils`
 - **Source Code**: [GitHub Repository](https://github.com/astropy/photutils)
 - **Documentation**: [Photutils Documentation](https://photutils.readthedocs.io/en/stable/)
-- **Tutorials**: [Photutils Tutorials](https://photutils.readthedocs.io/en/stable/tutorials.html)
-- **API Reference**: [Photutils API](https://photutils.readthedocs.io/en/stable/api.html)
+- **Tutorials**: [Photutils Tutorials](https://photutils.readthedocs.io/en/stable/user_guide/index.html)
+- **API Reference**: [Photutils API](https://photutils.readthedocs.io/en/stable/reference/index.html)
 
 ### PyCBC
 <div align="center"><img src="./assets/img/pycbc_logo.png" width="400" height="200"></div>
