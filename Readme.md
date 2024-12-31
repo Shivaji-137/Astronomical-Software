@@ -117,7 +117,7 @@ For more information and to get started with Cobaya, visit their [official websi
 - **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
 
 ### Dustpy
-<div align="center"><img src="./assets/img/dustpy_logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/dustpy_logo.png" width="400" height="100"></div>
 
 ----
 
@@ -181,12 +181,13 @@ For more information and to get started with Healpy, visit their [official websi
 - **Installation**: `pip install healpy`
 - **Source Code**: [GitHub Repository](https://github.com/healpy/healpy)
 - **Documentation**: [Healpy Documentation](https://healpy.readthedocs.io/en/latest/)
-- **Examples**: [Healpy Examples](https://healpy.readthedocs.io/en/latest/tutorial.html)
+- **Tutorials**: [Healpy tutorial](https://healpy.readthedocs.io/en/latest/tutorial.html)
 - **API Reference**: [Healpy API](https://healpy.readthedocs.io/en/latest/genindex.html)
 
 ### Jdaviz
-<div align="center"><img src="./assets/img/jdaviz_logo.png" width="200" height="100"></div>
-
+<div align="center"><img src="./assets/img/jdaviz.svg" width="100" height="100"></div>
+----
+<div align="center"><img src="./assets/img/jdaviz-launcher.png" width="100" height="100"></div>
 ----
 
 Jdaviz is a suite of interactive data visualization tools for astronomy, built on the Jupyter platform. It provides a range of applications for visualizing and analyzing different types of astronomical data, including spectra, images, and cubes.
@@ -195,11 +196,11 @@ Jdaviz is designed to be user-friendly and highly customizable, with a focus on 
 
 For more information and to get started with Jdaviz, visit their [official website](https://jdaviz.readthedocs.io).
 
-- **Installation**: `pip install jdaviz`
+- **Installation**: [`pip install jdaviz`](https://jdaviz.readthedocs.io/en/stable/installation.html)
 - **Source Code**: [GitHub Repository](https://github.com/spacetelescope/jdaviz)
 - **Documentation**: [Jdaviz Documentation](https://jdaviz.readthedocs.io/en/latest/)
-- **Examples**: [Jdaviz Examples](https://jdaviz.readthedocs.io/en/latest/examples.html)
-- **API Reference**: [Jdaviz API](https://jdaviz.readthedocs.io/en/latest/api.html)
+- **Tutorials**: [Jdaviz video tutorials](https://jdaviz.readthedocs.io/en/stable/video_tutorials.html) [jdaviz example notebook](https://jdaviz.readthedocs.io/en/stable/sample_notebooks.html#sample-notebook)
+- **API Reference**: [Jdaviz API](https://jdaviz.readthedocs.io/en/stable/reference/api.html)
 
 ### Lightkurve
 <div align="center"><img src="./assets/img/lightkurve_logo.png" width="200" height="100"></div>
