@@ -338,7 +338,7 @@ For more information and to get started with AstroImageJ, visit their [official 
 - **Tutorials**: [AstroImageJ Tutorials](https://www.astro.physik.uni-goettingen.de/~hessman/ImageJ/Book/index.html)
 
 ### SAOImageDS9
-<div align="center"><img src="./assets/img/ds9.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/ds9.png" width="200" height="200"></div>
 
 ----
 
@@ -351,7 +351,7 @@ For more information and to get started with SAOImageDS9, visit their [official 
 - **Tutorials**: [SAOImageDS9 Tutorials](https://www.youtube.com/user/4ciaodemos)
 
 ### TOPCAT
-<div align="center"><img src="./assets/img/tc_sok.png" width="200" height="200"><img src="./assets/img/topcat.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/tc_sok.png" width="100" height="100"><img src="./assets/img/topcat.png" width="200" height="200"></div>
 
 ----
 
