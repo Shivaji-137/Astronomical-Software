@@ -375,7 +375,7 @@ For more information and to get started with CosmoMC, visit their [official webs
 - **Documentation**: [CosmoMC Documentation](https://cosmologist.info/cosmomc/readme.html)
 
 ### JS9
-<div align="center"><img src="./assets/img/JS9.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/JS9.png" width="300" height="300"></div>
 
 ----
 
@@ -387,7 +387,7 @@ For more information and to get started with JS9, visit their [official website]
 
 
 ### SAOImageDS9
-<div align="center"><img src="./assets/img/ds9.png" width="200" height="200"></div>
+<div align="center"><img src="./assets/img/ds9.png" width="300" height="300"></div>
 
 ----
 
