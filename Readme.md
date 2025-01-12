@@ -332,7 +332,7 @@ For more information and to get started with Aladin, visit their [official websi
 - **Tutorials**: [Aladin Tutorials](https://aladin.u-strasbg.fr/java/AladinManual6.pdf#page=6)
 
 ### Aperture Photometry Tool
-<div align="center"><img src="./assets/img/APT.png" width="500" height="100"></div>
+<div align="center"><img src="./assets/img/APT.png" width="700" height="200"></div>
 
 ----
 
