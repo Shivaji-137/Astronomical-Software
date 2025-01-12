@@ -25,6 +25,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [HEAsoft](#heasoft)
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
    - [Aladin](#aladin)
+   - [Aperture Photometry Tool](#aperture-photometry-tool)
    - [AstroImageJ](#AstroImageJ)
    - [CASA](#CASA)
    - [CosmoMC](#CosmoMC)
@@ -329,6 +330,21 @@ For more information and to get started with Aladin, visit their [official websi
 - **Installation**: [Download Aladin](https://aladin.u-strasbg.fr/java/nph-aladin.pl?frame=downloading)
 - **Documentation**: [Aladin Documentation](https://aladin.u-strasbg.fr/java/AladinManual6.pdf)
 - **Tutorials**: [Aladin Tutorials](https://aladin.u-strasbg.fr/java/AladinManual6.pdf#page=6)
+
+### Aperture Photometry Tool
+<div align="center"><img src="./assets/img/APT.png" width="500" height="100"></div>
+
+----
+
+Aperture Photometry Tool (APT) is a software for astronomical research, as well as for learning, visualizing and refining aperture-photometry analyses. It provides tools for measuring the brightness of stars and other point sources in images, with options for background subtraction and error estimation.
+
+APT is designed to be user-friendly and flexible, with a graphical interface that allows users to interactively define apertures and analyze photometric data. It supports a wide range of image formats and includes features for batch processing and data visualization.
+
+For more information and to get started with APT, visit their [official website](https://www.aperturephotometry.org).
+
+- **Installation**: [Download APT](https://www.aperturephotometry.org/downloads/)
+- **Documentation**: [APT feature/function Documentation](https://www.aperturephotometry.org/features-functions/)
+- **Tutorials**: [APT Tutorials](https://www.youtube.com/watch?v=5lXAWfBW_NQ)
 
 ### AstroImageJ
 <div align="center"><img src="./assets/img/aij_image_display_w400.png" width="200" height="200"><img src="./assets/img/aij_light_curve_w400.png" width="200" height="200"></div>
