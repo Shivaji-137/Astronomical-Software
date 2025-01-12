@@ -392,7 +392,7 @@ JS9-4L is a web-based lightweight version of JS9 designed for use on low-power d
 
 JS9-4L is ideal for fieldwork and educational purposes, where portability and ease of use are important. It supports various data formats and can be integrated into web applications for remote access.
 
-For more information and to get started with JS9-4L, visit their [official website](https://js9.si.edu/js9-4l.html).
+For more information and to get started with JS9-4L, visit their [official website](https://waps.cfa.harvard.edu/eduportal/js9/software.php).
 
 
 ### SAOImageDS9
