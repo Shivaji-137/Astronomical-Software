@@ -385,6 +385,14 @@ JS9 is designed to be lightweight and easy to use, making it a convenient tool f
 
 For more information and to get started with JS9, visit their [official website](https://js9.si.edu).
 
+### JS9-4L
+
+JS9-4L is a web-based lightweight version of JS9 designed for use on low-power devices, such as laptops and tablets. It provides many of the same features as JS9, including image visualization and analysis, but is optimized for performance on less powerful hardware.
+
+JS9-4L is ideal for fieldwork and educational purposes, where portability and ease of use are important. It supports various data formats and can be integrated into web applications for remote access.
+
+For more information and to get started with JS9-4L, visit their [official website](https://js9.si.edu/js9-4l.html).
+
 
 ### SAOImageDS9
 <div align="center"><img src="./assets/img/ds9.png" width="300" height="300"></div>
