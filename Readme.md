@@ -9,6 +9,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Astropy](#astropy)
     - [AstroML](#AstroMl)
     - [Astroquery](#astroquery)
+    - [batman](#batman)
     - [Camb](#camb)
     - [Cobaya](#cobaya)
     - [Dustpy](#Dustpy)
@@ -99,6 +100,22 @@ For more information and to get started with Astroquery, visit their [official w
 - **Source Code**: [GitHub Repository](https://github.com/astropy/astroquery)
 - **Python module Index**: [Useful API](https://astroquery.readthedocs.io/en/latest/py-modindex.html)
 
+### batman
+<div align="center"><img src="./assets/img/batlogo.jpg" width="200" height="200"></div>
+
+----
+
+batman is a Python package for calculating transit light curves. It is designed to be fast and flexible, allowing users to model light curves for various types of exoplanetary systems. The package supports different limb darkening laws and can handle both primary and secondary eclipses.
+
+batman is particularly useful for fitting transit light curves and deriving parameters such as the planet's radius, orbital inclination, and limb darkening coefficients.
+
+For more information and to get started with batman, visit their [official website](https://lkreidberg.github.io/batman/docs/html/index.html).
+
+- **Installation**: `pip install batman-package`
+- **Source Code**: [GitHub Repository](https://github.com/lkreidberg/batman)
+- **Documentation**: [batman Documentation](https://www.cfa.harvard.edu/~lkreidberg/batman/)
+- **Tutorials**: [batman tutorials](https://lkreidberg.github.io/batman/docs/html/tutorial.html)
+- **API Reference**: [batman API](https://lkreidberg.github.io/batman/docs/html/api.html)
 
 ### Camb
 <div align="center"><img src="./assets/img/cobaya_camb.png" width="200" height="200"></div>
