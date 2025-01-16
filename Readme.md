@@ -26,6 +26,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Photutils](#Photutils)
     - [POSEIDON](#POSEIDON)
     - [PyCBC](#pycbc)
+    - [pysynphot](#pysynphot)
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
     - [spiderman](#spiderman)
@@ -398,6 +399,21 @@ For more information and to get started with PyCBC, visit their [official websit
 - **Documentation**: [PyCBC Documentation](https://pycbc.org/pycbc/latest/html/)
 - **Tutorials**: [PyCBC Examples](https://github.com/gwastro/PyCBC-Tutorials) [Library Examples and Interactive Tutorials](https://pycbc.org/pycbc/latest/html/tutorials.html)
 - **API Reference**: [PyCBC API](https://pycbc.org/pycbc/latest/html/modules.html)
+
+### pysynphot
+
+pysynphot is a Python package for synthetic photometry, designed to simulate photometric observations. It is part of the Space Telescope Science Data Analysis System (STSDAS) and provides tools for creating synthetic spectra, calculating photometric magnitudes, and performing other photometric analyses.
+
+pysynphot is particularly useful for simulating observations with the Hubble Space Telescope (HST) and other space-based observatories. It allows users to model the effects of different filters, detectors, and observing conditions on the observed photometry.
+
+For more information and to get started with pysynphot, visit their [official website](https://pysynphot.readthedocs.io).
+
+- **Installation**: `pip install pysynphot`
+- **Source Code**: [GitHub Repository](https://github.com/spacetelescope/pysynphot)
+- **Documentation**: [pysynphot Documentation](https://pysynphot.readthedocs.io/en/latest/)
+- **Tutorials**: [pysynphot Tutorials](https://pysynphot.readthedocs.io/en/latest/tutorials.html)
+- **API Reference**: [pysynphot API](https://pysynphot.readthedocs.io/en/latest/ref_api.html)
+
 
 ### RADMC-3D
 
