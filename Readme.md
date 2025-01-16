@@ -276,7 +276,7 @@ POSEIDON is particularly useful for studying the atmospheres of transiting exopl
 For more information and to get started with POSEIDON, visit their [official website](https://poseidon-retrievals.readthedocs.io/en/latest/).
 
 - **Installation**: [`pip install poseidon`](https://poseidon-retrievals.readthedocs.io/en/latest/content/installation.html)
-- **Source Code**: [GitHub Repository](https://github.com/poseidon-code/POSEIDON)
+- **Source Code**: [GitHub Repository](https://github.com/MartianColonist/POSEIDON)
 - **Documentation**: [POSEIDON Documentation](https://poseidon-retrievals.readthedocs.io/en/latest/)
 - **Tutorials**: [POSEIDON Tutorials](https://poseidon-retrievals.readthedocs.io/en/latest/content/forward_model_tutorials.html)
 - **API Reference**: [POSEIDON API](https://poseidon-retrievals.readthedocs.io/en/latest/autoapi/index.html)
