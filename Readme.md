@@ -28,6 +28,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [PyCBC](#pycbc)
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
+    - [spiderman](#spiderman)
     - [HEAsoft](#heasoft)
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
    - [Aladin](#aladin)
@@ -105,7 +106,7 @@ For more information and to get started with Astroquery, visit their [official w
 
 ----
 
-batman is a Python package for calculating transit light curves. It is designed to be fast and flexible, allowing users to model light curves for various types of exoplanetary systems. The package supports different limb darkening laws and can handle both primary and secondary eclipses.
+batman (Bad-Ass Transit Model cAlculatioN) is a Python package for calculating transit light curves. It is designed to be fast and flexible, allowing users to model light curves for various types of exoplanetary systems. The package supports different limb darkening laws and can handle both primary and secondary eclipses.
 
 batman is particularly useful for fitting transit light curves and deriving parameters such as the planet's radius, orbital inclination, and limb darkening coefficients.
 
@@ -429,7 +430,17 @@ For more information and to get started with Spectral-cube, visit their [officia
 - **Examples**: [Spectral-cube Examples](https://spectral-cube.readthedocs.io/en/latest/examples.html)
 - **API Reference**: [Spectral-cube API](https://spectral-cube.readthedocs.io/en/latest/api.html)
 
+### spiderman
 
+spiderman is an open-source Python package designed to model phase curves and secondary eclipses of exoplanets. It provides tools for simulating the thermal emission and reflected light from exoplanets as they orbit their host stars, allowing researchers to study the atmospheric properties and dynamics of these distant worlds.
+
+spiderman is particularly useful for analyzing data from space-based telescopes, such as the James Webb Space Telescope (JWST) and the Hubble Space Telescope (HST), as well as ground-based observatories.
+
+For more information and to get started with spiderman, visit their [official website](https://spiderman.readthedocs.io).
+
+- **Installation**: `pip install spiderman-package`
+- **Source Code**: [GitHub Repository](https://github.com/tomlouden/spiderman)
+- **Tutorials**: [spiderman Tutorials](https://spiderman.readthedocs.io/en/latest/quickstart.html)
 
 ## <img src="./assets/img/executable_icon.png" alt="Logo" width="27" height="27"> Executable Software
 
