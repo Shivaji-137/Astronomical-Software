@@ -265,7 +265,7 @@ For more information and to get started with Photutils, visit their [official we
 - **API Reference**: [Photutils API](https://photutils.readthedocs.io/en/stable/reference/index.html)
 
 ### POSEIDON
-<div align="center"><img src="./assets/img/POSEIDON_logo.png" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/POSEIDON_logo.png" width="300" height="100"></div>
 
 ----
 
