@@ -19,6 +19,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Healpy](#healpy)
     - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
+    - [petitRADTRANS](#petitRADTRANS)
     - [Photutils](#Photutils)
     - [POSEIDON](#POSEIDON)
     - [PyCBC](#pycbc)
