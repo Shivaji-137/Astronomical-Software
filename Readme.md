@@ -20,6 +20,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Healpy](#healpy)
     - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
+    - [PACMAN](#PACMAN)
     - [petitRADTRANS](#petitRADTRANS)
     - [Photutils](#Photutils)
     - [POSEIDON](#POSEIDON)
@@ -287,6 +288,28 @@ Minato (Massive bINaries Analysis TOols) is a Python package designed for the an
 - **Source Code**: [GitHub Repository](https://github.com/jvillasr/MINATO)
 - **Documentation**: [Minato Documentation](https://github.com/jvillasr/MINATO)
 - **Tutorials**: [Minato Examples](https://github.com/jvillasr/MINATO/tree/main/minato/tutorials)
+
+### PACMAN
+<div align="center"><img src="./assets/img/Pacman.gif" width="400" height="200"></div>
+
+----
+
+``PACMAN`` is a pipeline to reduce and analyze Hubble/Wide Field Camera 3 (WFC3) observations of transiting exoplanets. The pipeline runs end-to-end, beginning with a time series of 2D images and ending with a spectrum for the planet. ``PACMAN`` can easily fit multiple observations simultaneously.
+                                                                                
+The main steps in the pipeline are:                                             
+                                                                                
+- optimally extract spectra from the 'ima' data products provided by STScI      
+- bin the spectra into user-specified wavelength bins and output the light curve(s)
+- fit the light curves with a variety of astrophysical models (transit, eclipse, phase curve) and instrument systematic models (visit-long quadratic trends, orbit-long exponential trends)
+- estimate uncertainties on the planet parameters with least-squares, MCMC, or nested sampling
+    
+For more information and to get started with PACMAN, visit their [official website](https://pacmandocs.readthedocs.io/en/latest/).
+
+- **Installation**: [`pip install 'pacman@git+https://github.com/sebastian-zieba/PACMAN.git@v0.4.0'`](https://pacmandocs.readthedocs.io/en/latest/installation.html)
+- **Source Code**: [GitHub Repository](https://github.com/sebastian-zieba/PACMAN)
+- **Documentation**: [PACMAN Documentation](https://pacmandocs.readthedocs.io/en/latest/)
+- **Tutorials**: [PACMAN  Quickstart](https://pacmandocs.readthedocs.io/en/latest/before_running.html)
+- **API Reference**: [PACMAN API](https://pacmandocs.readthedocs.io/en/latest/api.html)
 
 ### petitRADTRANS
 <div align="center"><img src="./assets/img/petitlogo.png" width="200" height="200"></div>
