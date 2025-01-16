@@ -12,6 +12,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Camb](#camb)
     - [Cobaya](#cobaya)
     - [Dustpy](#Dustpy)
+    - [Eureka](#Eureka)
     - [exoplanet](#exoplanet)
     - [Gala](#gala)
     - [GASTLI](#GASTLI)
@@ -147,6 +148,21 @@ For more information and to get started with Dustpy, visit their [official websi
 - **Documentation**: [Dustpy Documentation](https://stammler.github.io/dustpy/index.html#dustpy-documentation)
 - **Examples**: [Dustpy Basic Usages](https://stammler.github.io/dustpy/1_basics.html)
 - **API Reference**: [Dustpy API](https://stammler.github.io/dustpy/api.html)
+
+### Eureka
+<div align="center"><img src="./assets/img/Eureka_logo.png" width="200" height="200"></div>
+
+----
+
+Eureka is a Python package designed for the reduction and analysis of data from the James Webb Space Telescope (JWST). It provides tools for processing time-series observations, including functions for data calibration, light curve extraction, and transit fitting.
+
+For more information and to get started with Eureka, visit their [official website](https://eurekadocs.readthedocs.io).
+
+- **Installation**: [`pip install -e 'eureka[jwst]@git+https://github.com/kevin218/Eureka.git@v1.1'`](https://eurekadocs.readthedocs.io/en/latest/installation.html)
+- **Source Code**: [GitHub Repository](https://github.com/kevin218/Eureka)
+- **Documentation**: [Eureka Documentation](https://eurekadocs.readthedocs.io/en/latest/)
+- **Tutorials**: [Eureka Tutorials](https://eurekadocs.readthedocs.io/en/latest/notebooks.html)
+- **API Reference**: [Eureka API](https://eurekadocs.readthedocs.io/en/latest/api.html)
 
 ### exoplanet
 <div align="center"><img src="./assets/img/e_logo.png" width="200" height="100"></div>
