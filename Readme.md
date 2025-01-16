@@ -271,6 +271,23 @@ Minato (Massive bINaries Analysis TOols) is a Python package designed for the an
 - **Documentation**: [Minato Documentation](https://github.com/jvillasr/MINATO)
 - **Tutorials**: [Minato Examples](https://github.com/jvillasr/MINATO/tree/main/minato/tutorials)
 
+### petitRADTRANS
+<div align="center"><img src="./assets/img/petitlogo.png" width="200" height="200"></div>
+
+----
+
+petitRADTRANS is a Python package for modeling the transmission and emission spectra of exoplanet atmospheres. It provides tools for generating synthetic spectra based on various atmospheric parameters, including temperature, composition, and cloud properties.
+
+petitRADTRANS is designed to be flexible and user-friendly, with a range of options for customizing models. It is particularly useful for studying the atmospheres of transiting exoplanets and interpreting observational data.
+
+For more information and to get started with petitRADTRANS, visit their [official website](https://petitradtrans.readthedocs.io).
+
+- **Installation**: [Installation docs](https://petitradtrans.readthedocs.io/en/latest/content/installation.html)
+- **Source Code**: [GitHub Repository](https://github.com/exoclime/petitRADTRANS)
+- **Documentation**: [petitRADTRANS Documentation](https://petitradtrans.readthedocs.io/en/latest/)
+- **Tutorials**: [petitRADTRANS Tutorials](https://petitradtrans.readthedocs.io/en/latest/content/tutorial.html) [Examples](https://petitradtrans.readthedocs.io/en/latest/content/retrieval_examples.html)
+- **API Reference**: [petitRADTRANS API](https://petitradtrans.readthedocs.io/en/latest/autoapi/index.html)
+
 ### Photutils
 <div align="center"><img src="./assets/img/photutils_logo.svg" width="200" height="100"></div>
 
