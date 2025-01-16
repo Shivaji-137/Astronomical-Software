@@ -12,6 +12,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Camb](#camb)
     - [Cobaya](#cobaya)
     - [Dustpy](#Dustpy)
+    - [exoplanet](#exoplanet)
     - [Gala](#gala)
     - [GASTLI](#GASTLI)
     - [H5py](#h5py)
@@ -145,6 +146,33 @@ For more information and to get started with Dustpy, visit their [official websi
 - **Documentation**: [Dustpy Documentation](https://stammler.github.io/dustpy/index.html#dustpy-documentation)
 - **Examples**: [Dustpy Basic Usages](https://stammler.github.io/dustpy/1_basics.html)
 - **API Reference**: [Dustpy API](https://stammler.github.io/dustpy/api.html)
+
+### exoplanet
+<div align="center"><img src="./assets/img/e_logo.png" width="200" height="100"></div>
+
+----
+
+exoplanet is a toolkit for probabilistic modeling of time series data in astronomy, with a focus on observations of exoplanets. It leverages the PyMC library to provide a flexible and powerful framework for modeling and analyzing time series data, allowing users to perform tasks such as transit fitting, radial velocity analysis, and more.
+
+These features include:
+
+- A fast and robust solver for Kepler’s equation.
+
+- Scalable Gaussian Processes using celerite.
+
+- Fast and accurate limb darkened light curves using starry.
+
+- Common reparameterizations for exoplanet-specific parameters like limb darkening and eccentricity.
+
+- And many others!
+
+For more information and to get started with exoplanet, visit their [official website](https://docs.exoplanet.codes/en/latest/).
+
+- **Installation**: `python -m pip install -U "exoplanet[pymc]"`
+- **Source Code**: [GitHub Repository](https://github.com/exoplanet-dev/exoplanet)
+- **Documentation**: [exoplanet Documentation](https://docs.exoplanet.codes/en/stable/)
+- **Tutorials**: [exoplanet Tutorials](https://docs.exoplanet.codes/en/latest/tutorials/autodiff/) [Tutorials Gallery](https://gallery.exoplanet.codes/)
+- **API Reference**: [exoplanet API](https://docs.exoplanet.codes/en/stable/api/)
 
 ### Gala
 <div align="center"><img src="./assets/img/Gala_Logo.png" width="200" height="100"></div>
