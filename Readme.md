@@ -34,6 +34,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
    - [AstroImageJ](#AstroImageJ)
    - [CASA](#CASA)
    - [CosmoMC](#CosmoMC)
+   - [EXOFASTv2](#EXOFASTv2)
    - [JS9](#JS9)
    - [JS9-4L](#js9-4l)
    - [SAOImageDS9](#SAOImageDS9)
@@ -489,6 +490,16 @@ For more information and to get started with CosmoMC, visit their [official webs
 - **Installation**: [Install CosmoMC](https://cosmologist.info/cosmomc/readme.html#Compiling)
 - **Source Code**: [GitHub Repository](https://github.com/cmbant/CosmoMC)
 - **Documentation**: [CosmoMC Documentation](https://cosmologist.info/cosmomc/readme.html)
+
+### EXOFASTv2
+
+An exoplanet transit and radial velocity fitting software package in IDL. EXOFASTv2 is a software package for modeling and characterizing exoplanetary systems. It provides tools for fitting transit and radial velocity data, allowing users to derive precise parameters for exoplanets and their host stars.
+
+For more information and to get started with EXOFASTv2, visit their [Github](https://docs.google.com/document/d/1H-HMe1No5B4JE93V9kSEW91uSIQcG2eUVScf037biZw/edit).
+
+- **Installation**: [Install EXOFASTv2](https://docs.google.com/document/d/1kcm7_mgfoCdDx6lUeqUJdDkpxtejyTNQf3sIveq3lkk/edit?tab=t.0)
+- **Source Code**: [GitHub Repository](https://github.com/jdeast/EXOFASTv2)
+- **Tutorials**: [EXOFASTv2 Tutorials](https://docs.google.com/document/d/1H-HMe1No5B4JE93V9kSEW91uSIQcG2eUVScf037biZw/edit)
 
 ### JS9
 <div align="center"><img src="./assets/img/JS9.png" width="300" height="300"></div>
