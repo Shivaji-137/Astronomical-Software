@@ -175,7 +175,7 @@ For more information and to get started with exoplanet, visit their [official we
 - **API Reference**: [exoplanet API](https://docs.exoplanet.codes/en/stable/api/)
 
 ### Gala
-<div align="center"><img src="./assets/img/Gala_Logo.png" width="200" height="100"></div>
+<div align="center"><img src="./assets/img/Gala_Logo.png" width="100" height="100"></div>
 
 ----
 
