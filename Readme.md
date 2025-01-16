@@ -19,6 +19,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Jdaviz](#jdaviz)
     - [Lightkurve](#lightkurve)
     - [Photutils](#Photutils)
+    - [POSEIDON](#POSEIDON)
     - [PyCBC](#pycbc)
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
@@ -262,6 +263,23 @@ For more information and to get started with Photutils, visit their [official we
 - **Documentation**: [Photutils Documentation](https://photutils.readthedocs.io/en/stable/)
 - **Tutorials**: [Photutils Tutorials](https://photutils.readthedocs.io/en/stable/user_guide/index.html)
 - **API Reference**: [Photutils API](https://photutils.readthedocs.io/en/stable/reference/index.html)
+
+### POSEIDON
+<div align="center"><img src="./assets/img/POSEIDON_logo.png" width="100" height="100"></div>
+
+----
+
+POSEIDON is a Python package for modeling and analyzing exoplanet atmospheres. It provides tools for generating synthetic spectra, fitting observed spectra, and retrieving atmospheric properties. The package is designed to be flexible and user-friendly, with a range of options for customizing models and analyses.
+
+POSEIDON is particularly useful for studying the atmospheres of transiting exoplanets, allowing researchers to infer properties such as temperature, composition, and cloud coverage.
+
+For more information and to get started with POSEIDON, visit their [official website](https://poseidon-retrievals.readthedocs.io/en/latest/).
+
+- **Installation**: [`pip install poseidon`](https://poseidon-retrievals.readthedocs.io/en/latest/content/installation.html)
+- **Source Code**: [GitHub Repository](https://github.com/poseidon-code/POSEIDON)
+- **Documentation**: [POSEIDON Documentation](https://poseidon-retrievals.readthedocs.io/en/latest/)
+- **Tutorials**: [POSEIDON Tutorials](https://poseidon-retrievals.readthedocs.io/en/latest/content/forward_model_tutorials.html)
+- **API Reference**: [POSEIDON API](https://poseidon-retrievals.readthedocs.io/en/latest/autoapi/index.html)
 
 ### PyCBC
 <div align="center"><img src="./assets/img/pycbc_logo.png" width="400" height="200"></div>
