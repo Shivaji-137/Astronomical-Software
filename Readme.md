@@ -29,6 +29,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
     - [spiderman](#spiderman)
+    - [Starry](#starry)
     - [HEAsoft](#heasoft)
 - [<img src="./assets/img/executable_icon.png" alt="Logo" width="17" height="17"> Executable Software](#executable-software)
    - [Aladin](#aladin)
@@ -441,6 +442,25 @@ For more information and to get started with spiderman, visit their [official we
 - **Installation**: `pip install spiderman-package`
 - **Source Code**: [GitHub Repository](https://github.com/tomlouden/spiderman)
 - **Tutorials**: [spiderman Tutorials](https://spiderman.readthedocs.io/en/latest/quickstart.html)
+
+
+### Starry
+<div align="center"><img src="./assets/img/starry.png" width="200" height="200"></div>
+
+----
+
+Starry is a Python package for fast and accurate computation of light curves and stellar maps. It is designed to model the surface brightness of stars and exoplanets, allowing users to simulate and analyze time-series data from transiting exoplanets, eclipsing binaries, and other variable stars.
+
+Starry leverages spherical harmonics to provide a flexible and efficient framework for modeling complex surface features, such as star spots and planetary albedo variations.
+
+For more information and to get started with Starry, visit their [official website](https://rodluger.github.io/starry/).
+
+- **Installation**: `pip install -U starry`
+- **Source Code**: [GitHub Repository](https://github.com/rodluger/starry)
+- **Documentation**: [Starry Documentation](https://starry.readthedocs.io/en/latest/)
+- **Tutorials**: [Starry Tutorials](https://starry.readthedocs.io/en/latest/tutorials/)
+- **API Reference**: [Starry API](https://starry.readthedocs.io/en/latest/api/)
+
 
 ## <img src="./assets/img/executable_icon.png" alt="Logo" width="27" height="27"> Executable Software
 
