@@ -269,7 +269,7 @@ For more information and to get started with Photutils, visit their [official we
 
 ----
 
-POSEIDON is a Python package for modeling and analyzing exoplanet atmospheres. It provides tools for generating synthetic spectra, fitting observed spectra, and retrieving atmospheric properties. The package is designed to be flexible and user-friendly, with a range of options for customizing models and analyses.
+POSEIDON is a Python package for modeling and analyzing exoplanet atmospheres. It provides tools for generating synthetic spectra, fitting observed spectra, and retrieving atmospheric properties. POSEIDON's main application is modelling and retrieval of 1D, 2D, and 3D exoplanet transmission spectra.
 
 POSEIDON is particularly useful for studying the atmospheres of transiting exoplanets, allowing researchers to infer properties such as temperature, composition, and cloud coverage.
 
