@@ -157,13 +157,9 @@ exoplanet is a toolkit for probabilistic modeling of time series data in astrono
 These features include:
 
 - A fast and robust solver for Kepler’s equation.
-
 - Scalable Gaussian Processes using celerite.
-
 - Fast and accurate limb darkened light curves using starry.
-
 - Common reparameterizations for exoplanet-specific parameters like limb darkening and eccentricity.
-
 - And many others!
 
 For more information and to get started with exoplanet, visit their [official website](https://docs.exoplanet.codes/en/latest/).
