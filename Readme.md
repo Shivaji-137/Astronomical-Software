@@ -11,6 +11,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Astroquery](#astroquery)
     - [batman](#batman)
     - [Camb](#camb)
+    - [CIGALE](#CIGALE)
     - [Cobaya](#cobaya)
     - [Dustpy](#Dustpy)
     - [Eureka](#Eureka)
@@ -137,6 +138,28 @@ For more information and to get started with Camb, visit their [official website
 - **Examples**: [Camb Examples Notebook](https://camb.readthedocs.io/en/latest/CAMBdemo.html)
 - **API Reference**: [Camb API](https://camb.readthedocs.io/en/stable/genindex.html)
 
+### CIGALE
+<div align="center"><img src="./assets/img/cigale.png" width="500" height="100"></div>
+
+----
+
+CIGALE (Code Investigating GALaxy Emission) is a Python package for modeling the spectral energy distribution (SED) of galaxies. It provides tools for fitting observed SEDs with theoretical models, allowing users to derive physical properties such as star formation rates, stellar masses, and dust content.
+
+CIGALE is designed to be flexible and user-friendly, with a range of options for customizing models and fitting procedures. It is particularly useful for studying the multi-wavelength properties of galaxies and interpreting observational data.
+
+For more information and to get started with CIGALE, visit their [official website](https://cigale.lam.fr).
+
+- **Installation**: [Download CIGALE](https://cigale.lam.fr/download/)
+- **Documentation**: [Cigate Documentation](https://cigale.lam.fr/documentation/)
+- **Source Code**: [Gitlab Repository](https://gitlab.lam.fr/cigale/cigale/)
+- **Tutorials**: [CIGALE Tutorials](https://gitlab.lam.fr/cigale/manual/)
+- **Example Files**: 
+```bash
+# Download the zip CIGALE example file using wget
+wget http://cigale.lam.fr/wp-content/uploads/2016/05/CIGALE_Howto_v0.9.0.zip
+```
+- **Research Paper**: [CIGALE Research Paper](https://www.aanda.org/articles/aa/pdf/2019/02/aa34156-18.pdf)
+
 ### Cobaya
 <div align="center"><img src="./assets/img/cobaya_camb.png" width="200" height="200"></div>
 
@@ -153,6 +176,8 @@ For more information and to get started with Cobaya, visit their [official websi
 - **Documentation**: [Cobaya Documentation](https://cobaya.readthedocs.io/en/latest/)
 - **Examples**: [Cobaya Examples](https://cobaya.readthedocs.io/en/latest/example.html)
 - **API Reference**: [Cobaya API](https://cobaya.readthedocs.io/en/latest/py-modindex.html)
+
+
 
 ### Dustpy
 <div align="center"><img src="./assets/img/dustpy_logo.png" width="400" height="100"></div>
@@ -399,6 +424,25 @@ For more information and to get started with PyCBC, visit their [official websit
 - **Documentation**: [PyCBC Documentation](https://pycbc.org/pycbc/latest/html/)
 - **Tutorials**: [PyCBC Examples](https://github.com/gwastro/PyCBC-Tutorials) [Library Examples and Interactive Tutorials](https://pycbc.org/pycbc/latest/html/tutorials.html)
 - **API Reference**: [PyCBC API](https://pycbc.org/pycbc/latest/html/modules.html)
+
+### PyNbody
+<div align="center"><img src="./assets/img/pynbody_logo.svg" width="300" height="200"></div>
+
+----
+
+PyNbody is a Python package for analyzing and visualizing N-body simulations. It is designed for working with large-scale cosmological simulations, such as those modeling galaxy formation, dark matter halos, and the large-scale structure of the universe.
+
+PyNbody provides tools for loading, manipulating, and visualizing simulation data, making it easier for researchers to analyze complex astrophysical systems. It also supports integration with other scientific libraries, such as NumPy and Matplotlib.
+
+For more information and to get started with PyNbody, visit their [official website](https://pynbody.readthedocs.io/latest/).
+
+- **Installation**: `pip install pynbody`
+- **Source Code**: [GitHub Repository](https://github.com/pynbody/pynbody)
+- **Documentation**: [PyNbody Documentation](https://pynbody.readthedocs.io/latest/)
+- **Tutorials**: [PyNbody Tutorials](https://pynbody.readthedocs.io/latest/tutorials/tutorials.html)
+- **API Reference**: [PyNbody API](https://pynbody.readthedocs.io/latest/reference/index.html)
+
+---
 
 ### pysynphot
 
