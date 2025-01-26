@@ -27,6 +27,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Photutils](#Photutils)
     - [POSEIDON](#POSEIDON)
     - [PyCBC](#pycbc)
+    - [Pynbody](#pynbody)
     - [pysynphot](#pysynphot)
     - [RADMC-3D](#RADMC-3D)
     - [Spectral-cube](#spectral-cube)
