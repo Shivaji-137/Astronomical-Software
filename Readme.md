@@ -30,6 +30,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [Pynbody](#pynbody)
     - [pysynphot](#pysynphot)
     - [RADMC-3D](#RADMC-3D)
+    - [REBOUND](#rebound)
     - [Spectral-cube](#spectral-cube)
     - [spiderman](#spiderman)
     - [Starry](#starry)
@@ -474,6 +475,24 @@ For more information and to get started with RADMC-3D, visit their [official web
 - **Source Code**: [GitHub Repository](https://github.com/dullemond/radmc-3d)
 - **Python Module Package**: [RADMC-3D module package](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/genindex.html)
 - **API Reference**: [RADMC-3D API](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_rmcpy/genindex.html)
+
+### REBOUND
+<div align="center"><img src="./assets/img/reboundbanner.png" width="400" height="100"></div>
+
+----
+
+REBOUND is a powerful **N-body simulation package** for gravitational dynamics, written primarily in **C** with a Python interface. It is widely used for simulating planetary systems, exoplanets, and other gravitational interactions. REBOUND is designed to be fast, flexible, and easy to use, making it a popular choice for researchers studying the dynamics of celestial bodies.
+
+REBOUND supports a variety of integrators, including the **IAS15** integrator for high-precision simulations and the **WHFast** integrator for fast, symplectic integrations. It also includes tools for visualizing simulations and analyzing the results.
+
+For more information and to get started with REBOUND, visit their [official website](https://rebound.readthedocs.io).
+
+- **Installation (Python)**: `pip install rebound`
+- **Installation (C)**: Follow the instructions in the [REBOUND Documentation](https://rebound.readthedocs.io/en/latest/quickstart_installation/).
+- **Source Code**: [GitHub Repository](https://github.com/hannorein/rebound)
+- **Documentation**: [REBOUND Documentation](https://rebound.readthedocs.io/)
+- **Tutorials**: [REBOUND Examples](https://rebound.readthedocs.io/en/latest/examples/)
+- **API Reference**: [REBOUND API](https://rebound.readthedocs.io/en/latest/api/)
 
 ### Spectral-cube
 <div align="center"><img src="./assets/img/spectral_cube.svg" width="200" height="200"></div>
