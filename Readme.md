@@ -31,6 +31,7 @@ Welcome to the Astronomical Software Tools repository! This collection is dedica
     - [pysynphot](#pysynphot)
     - [RADMC-3D](#RADMC-3D)
     - [REBOUND](#rebound)
+    - [SPARCL](#SPARCL)
     - [Spectral-cube](#spectral-cube)
     - [spiderman](#spiderman)
     - [Starry](#starry)
@@ -285,7 +286,7 @@ For more information and to get started with H5py, visit their [official website
 
 ### Healpy
 
-Healpy is a Python package for working with HEALPix (Hierarchical Equal Area isoLatitude Pixelation) data, which is commonly used in astronomy for analyzing spherical data, such as maps of the cosmic microwave background.
+Healpy is a Python package for working with HEALPix (Hierarchical Equal Area isoLatitude Pixelation) data, which is commonly used in astronomy for analyzing spherical data, such as maps of the cosmic microwaveSPARCL background.
 
 Healpy provides tools for creating, manipulating, and visualizing HEALPix maps. It also includes functions for performing spherical harmonic transforms and other operations on spherical data.
 
@@ -493,6 +494,68 @@ For more information and to get started with REBOUND, visit their [official webs
 - **Documentation**: [REBOUND Documentation](https://rebound.readthedocs.io/)
 - **Tutorials**: [REBOUND Examples](https://rebound.readthedocs.io/en/latest/examples/)
 - **API Reference**: [REBOUND API](https://rebound.readthedocs.io/en/latest/api/)
+
+### SPARCL
+**SPARCL (SPectra Analysis and Retrievable Catalog Lab) Client** is a Python package for retrieving and analyzing spectral data from the SPARCL server. It provides an easy-to-use interface for searching astronomical spectral data, retrieving records, and handling spectral analysis.
+
+### Documentation: [SPARCL Documentation](https://sparclclient.readthedocs.io/en/latest/)
+
+### Features
+
+- Search for spectral records using constraints such as spectral type and redshift.
+- Retrieve spectral data including flux, wavelength, and model information.
+- Handle custom exceptions for efficient error management.
+- Supports flexible queries with output field selection.
+
+### Installation
+
+To install `sparcl`, use:
+
+```bash
+pip install sparcl
+```
+
+### Usage
+
+### Initializing the Client
+
+```python
+from sparcl.client import SparclClient
+
+# Create an instance of the client
+client = SparclClient()
+```
+
+### Searching for Spectral Records
+
+```python
+# Define search constraints (Example: Find galaxies with redshift between 0.5 and 0.9)
+constraints = {'spectype': ['GALAXY'], 'redshift': [0.5, 0.9]}
+
+# Search the SPARCL database
+found = client.find(outfields=['id', 'ra', 'dec'], constraints=constraints)
+
+# Print the retrieved records
+for record in found.records:
+    print(record)
+```
+
+### Retrieving Spectral Data
+
+```python
+# Extract record IDs from the search results
+ids = [record['id'] for record in found.records]
+
+# Retrieve spectral data
+retrieved = client.retrieve(uuid_list=ids, include=['flux', 'wavelength', 'model'])
+
+# Process the retrieved spectral data
+for spectrum in retrieved.records:
+    flux = spectrum['flux']
+    wavelength = spectrum['wavelength']
+    print(f"Wavelength: {wavelength}, Flux: {flux}")
+```
+
 
 ### Spectral-cube
 <div align="center"><img src="./assets/img/spectral_cube.svg" width="200" height="200"></div>
